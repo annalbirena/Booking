@@ -1,0 +1,10 @@
+@import '../../app.scss';
+
+.cards-container{
+    max-width: 1440px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: rem(75);
+    padding: 4.375rem 4.625rem; /*70px 75px*/
+}

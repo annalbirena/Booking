@@ -1,0 +1,90 @@
+@import '../../app.scss';
+
+/*FILTERS*/
+
+.filters{
+    display: inline-flex;
+    box-shadow: 0 5px 10px rgba(204, 126, 126, 0.4);
+    border: 1px solid rgba(219, 219, 219, 0.1);
+}
+
+.filter-container,
+.reset-button{
+    width: rem(225);
+    height: rem(100);
+}
+
+.filter-container{
+    display: flex;
+    flex-direction: column;
+    background: rgba(241, 241, 241, 0.7);
+    border-left: 1px solid rgba(255, 255, 255, 0.486);
+}
+
+.filter-input,
+.icon-container,
+.filter-select{
+    height: 50%;
+}
+
+.filter-select{
+    padding: rem(16);
+}
+
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    
+        span{
+            font-size: rem(18);
+            font-weight: 600;
+        }
+}
+
+.icon{
+    margin-right: 15px;
+    font-size: rem(23);
+}
+
+.icon-img{
+    color: $color-orange;
+}
+
+.filter-select {
+    cursor: pointer;
+}
+
+.filter-select,
+input{
+    /* Reset */
+    //appearance: none;
+    outline: 0;
+    border: 0;
+    box-shadow: none;
+    /* Styles*/
+    padding: rem(16);
+    background-color: rgba(241, 241, 241, 0.5);
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    height: 100%;
+}
+
+.button{
+    background: $color-orange;
+    color: $color-white;
+}
+
+.reset-button{
+    font-size: rem(25);
+}
+
+
+
+
+
+

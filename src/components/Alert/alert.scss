@@ -1,0 +1,16 @@
+@import '../../app.scss';
+
+.alert{
+    height: 250px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: $color-gray-1;
+
+    span{
+        font-size: 48px;
+        display: inline-block;
+        color: $color-gray;
+    }
+}

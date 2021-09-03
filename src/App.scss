@@ -1,0 +1,55 @@
+@use "sass:math";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+$color-orange: #FF9416;
+$color-orange-1: #FFF0DC;
+$color-black: #424444;
+$color-gray: #727678;
+$color-white: #FFFFFF;
+$color-gray-1: #F1F1F1;
+$color-gray-2: #BDBDBD;
+
+
+//Functions
+// Source: https://css-tricks.com/snippets/sass/px-to-em-functions/
+@function rem($pixels, $context: 16) {
+	@return (math.div($pixels, $context)) * 1rem;
+}
+
+//Globals
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: $color-black;
+}
+
+img{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+button{
+  border: none;
+  cursor: pointer;
+
+  &:hover{
+    background-color: white;
+    color: $color-orange;
+  }
+}
+
+.App {
+  margin: auto;
+  width: 100%;
+  //max-width: 1440px;
+  text-align: center;
+}
