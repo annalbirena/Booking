@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Booking/static/css/main.7d49a9f0.chunk.css",
+    "main.js": "/Booking/static/js/main.86c75cbf.chunk.js",
+    "main.js.map": "/Booking/static/js/main.86c75cbf.chunk.js.map",
+    "runtime-main.js": "/Booking/static/js/runtime-main.0436ac1f.js",
+    "runtime-main.js.map": "/Booking/static/js/runtime-main.0436ac1f.js.map",
+    "static/js/2.5128f852.chunk.js": "/Booking/static/js/2.5128f852.chunk.js",
+    "static/js/2.5128f852.chunk.js.map": "/Booking/static/js/2.5128f852.chunk.js.map",
+    "static/js/3.eef6d94d.chunk.js": "/Booking/static/js/3.eef6d94d.chunk.js",
+    "static/js/3.eef6d94d.chunk.js.map": "/Booking/static/js/3.eef6d94d.chunk.js.map",
+    "index.html": "/Booking/index.html",
+    "static/css/main.7d49a9f0.chunk.css.map": "/Booking/static/css/main.7d49a9f0.chunk.css.map",
+    "static/js/2.5128f852.chunk.js.LICENSE.txt": "/Booking/static/js/2.5128f852.chunk.js.LICENSE.txt",
+    "static/media/alto-atacama.a6846d24.jpg": "/Booking/static/media/alto-atacama.a6846d24.jpg",
+    "static/media/azur-real.9a591fc1.jpg": "/Booking/static/media/azur-real.9a591fc1.jpg",
+    "static/media/campo-tinto.f27bca75.jpg": "/Booking/static/media/campo-tinto.f27bca75.jpg",
+    "static/media/casa-higueras.0c6c7433.jpg": "/Booking/static/media/casa-higueras.0c6c7433.jpg",
+    "static/media/casa-turquesa.8e9179ce.jpg": "/Booking/static/media/casa-turquesa.8e9179ce.jpg",
+    "static/media/entre-cielos.671c5a26.jpg": "/Booking/static/media/entre-cielos.671c5a26.jpg",
+    "static/media/header.scss": "/Booking/static/media/header-img-2.82d2e2b0.jpg",
+    "static/media/huacalera.7542bc14.jpg": "/Booking/static/media/huacalera.7542bc14.jpg",
+    "static/media/la-bamba-de-areco.0ccacda0.jpg": "/Booking/static/media/la-bamba-de-areco.0ccacda0.jpg",
+    "static/media/luma-casa-de-montana.0501710d.jpg": "/Booking/static/media/luma-casa-de-montana.0501710d.jpg",
+    "static/media/merced-del-alto.3daaee16.jpg": "/Booking/static/media/merced-del-alto.3daaee16.jpg",
+    "static/media/ponta-dos-ganchos.8ebdf1b2.jpg": "/Booking/static/media/ponta-dos-ganchos.8ebdf1b2.jpg",
+    "static/media/rincon-del-socorro.98161c62.jpg": "/Booking/static/media/rincon-del-socorro.98161c62.jpg",
+    "static/media/sainte-jeanne.4ff84aba.jpg": "/Booking/static/media/sainte-jeanne.4ff84aba.jpg",
+    "static/media/tierra-patagonia.aad2b011.jpg": "/Booking/static/media/tierra-patagonia.aad2b011.jpg",
+    "static/media/uxua-casa.ebf46cc5.jpg": "/Booking/static/media/uxua-casa.ebf46cc5.jpg",
+    "static/media/vik-chile.341113d7.jpg": "/Booking/static/media/vik-chile.341113d7.jpg",
+    "static/media/vila-da-santa.a64e91d2.jpg": "/Booking/static/media/vila-da-santa.a64e91d2.jpg",
+    "static/media/vira-vira.17468e7f.jpg": "/Booking/static/media/vira-vira.17468e7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0436ac1f.js",
+    "static/js/2.5128f852.chunk.js",
+    "static/css/main.7d49a9f0.chunk.css",
+    "static/js/main.86c75cbf.chunk.js"
+  ]
+}
